@@ -1,0 +1,4 @@
+https://s3.amazonaws.com/f17-demo-aran42-20170421/FISPavement/20170421.093915/000004210005.fis
+https://s3.amazonaws.com/f17-demo-aran42-20170421/FISPavement/20170428.130415/000001270002.fis
+https://s3.amazonaws.com/f17-demo-aran42-20170421/FISPavement/20170428.130415/000002020003.fis
+https://s3.amazonaws.com/f17-demo-aran42-20170421/FISPavement/20170429.125305/000000390001.fis

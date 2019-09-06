@@ -1,0 +1,7 @@
+﻿    <Process>
+      <GnssMode>INFusion_SmartBase</GnssMode>
+      <SingleBaseList />
+      <SmartBase>
+        <SearchRadius>##SearchRadius##</SearchRadius>
+      </SmartBase>
+    </Process>

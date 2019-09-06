@@ -1,0 +1,13 @@
+﻿  <Project>
+    <Name>##ProjectName##</Name>
+    <Kernel />
+##Extract##
+##Process##
+    <Export />
+##TemplateFile##
+    <Reports>
+      <ReportDef>
+        <ReportTemplate>FugroRoadwareQCReport</ReportTemplate>
+      </ReportDef>
+    </Reports>
+  </Project>

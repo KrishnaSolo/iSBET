@@ -1,0 +1,12 @@
+\\video-01\Operations\SBETs\AK19_85132\Data\Batch_001\sbet_LV201905111005.out
+\\video-01\Operations\SBETs\AK19_85132\Data\Batch_001\sbet_LV201905111005.out
+https:https://fugroroadware--c.na60.content.force.com/secur/contentDoor?startURL=https%3A%2F%2Ffugroroadware.my.salesforce.com%2F00O0c000009JMgJ%3Fexport%3D1%26xf%3Dcsv%26enc%3DUTF-8&amp;sid=00D30000000mwtN%21ARkAQDkHKUIeBWUJEwHRHM9XwCuCzgHHLJnfbu8_mZez5JqnswrHYVQPzXcj_s2idR0DqW31W8FBtM0PMEUvTHF5IwTQ5cPl&amp;skipRedirect=1&amp;lm=aLo1sD8ASUm1tFkUqemqwg%3D%3D
+https://fugroroadware--c.na60.content.force.com/secur/contentDoor?startURL=https%3A%2F%2Ffugroroadware.my.salesforce.com%2F00Oa00000081BUC%3Fexport%3D1%26xf%3Dcsv%26enc%3DUTF-8&sid=00D30000000mwtN%21ARkAQDkHKUIeBWUJEwHRHM9
+XwCuCzgHHLJnfbu8_mZez5JqnswrHYVQPzXcj_s2idR0DqW31W8FBtM0PMEUvTHF5IwTQ5cPl&skipRedirect=1&lm=aLo1sD8ASUm1tFkUqemqwg%3D%3D
+
+
+\\video-01\Operations\SBETs\AK19_85132\Data\vnav_LV201905091521.out
+\\video-01\Operations\SBETs\AK19_85132\Data\Batch_001\sbet_LV201905091521.out
+
+\\video-01\Operations\SBETs\NY19_8512019\Data\Batch_027\sbet_lv201907060649.out
+\\video-01\Operations\SBETs\NY19_8512019\Data\vnav_lv201907060649.out

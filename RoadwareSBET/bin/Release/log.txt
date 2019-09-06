@@ -1,0 +1,20 @@
+Copy LOG -CHECK FOR DIRECTORY ISSUES: 
+ProjectName: CO19_85122 
+ARAN#: 55 
+Batch#: 021 
+Date of Collecion From: 10/05/2019 
+Date of Collection To: 10/05/2019 
+Starting in \\video-01\CO19_85122
+You are now in \\video-01\CO19_85122\Batch021 
+Source path is set to: \\video-01\CO19_85122\Batch021\posdata 
+Inside append file: 190510Starting in \\video-01\Operations\SBETs\CO19_85122 
+year from: 19 
+year to: 19 
+day from: 10 
+day to: 10 
+month from: 05 
+month to: 05 
+Pre Destination is set to: \\video-01\Operations\SBETs\CO19_85122\ARAN55_Posdata 
+SRC is set to: \\video-01\CO19_85122\Batch021\posdata\190510 
+Dest is set to: \\video-01\Operations\SBETs\CO19_85122\ARAN55_Posdata\190510 
+Files Transfer was sucessful 

@@ -1,0 +1,6 @@
+C:\Users\ksolanki\Documents\source-code\ccoxpias-roadware.sbet_processing-78fa4d4b2d42\RoadwareSBET\obj\Debug\RoadwareSBET.Domain.frmSBETBadBatch.resources
+C:\Users\ksolanki\Documents\source-code\ccoxpias-roadware.sbet_processing-78fa4d4b2d42\RoadwareSBET\obj\Debug\RoadwareSBET.Domain.frmSBETDialog.resources
+C:\Users\ksolanki\Documents\source-code\ccoxpias-roadware.sbet_processing-78fa4d4b2d42\RoadwareSBET\obj\Debug\RoadwareSBET.Domain.frmSBETBatchExport.resources
+C:\Users\ksolanki\Documents\source-code\ccoxpias-roadware.sbet_processing-78fa4d4b2d42\RoadwareSBET\obj\Debug\RoadwareSBET.Properties.Resources.resources
+C:\Users\ksolanki\Documents\source-code\ccoxpias-roadware.sbet_processing-78fa4d4b2d42\RoadwareSBET\obj\Debug\RoadwareSBET.csproj.GenerateResource.cache
+C:\Users\ksolanki\Documents\source-code\ccoxpias-roadware.sbet_processing-78fa4d4b2d42\RoadwareSBET\obj\Debug\RoadwareSBET.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\smrmsg_LV201707141517B.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\smrmsg_LV201707140854A.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\vrms_LV201707140854A.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\vrms_LV201707151018D.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\sbet_LV201707141517B.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\sbet_LV201707151018E.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\smrmsg_LV201707151018C.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\sbet_LV201707151018D.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\smrmsg_LV201707151018E.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\sbet_LV201707140854A.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\sbet_LV201707151018C.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\vrms_LV201707141517B.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\smrmsg_LV201707151018D.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\vrms_LV201707151018C.out
+\\video-12\V12A\CSJ17_85099\Data\Batch_014\Rework_Batch_014\vrms_LV201707151018E.out

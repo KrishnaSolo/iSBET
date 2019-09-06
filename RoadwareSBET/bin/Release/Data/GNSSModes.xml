@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GNSSModes>
+  <GNSSMode>
+    <DisplayName>IN-Fusion SmartBase</DisplayName>
+    <Name>SmartBase</Name>
+    <SeqOrder>1</SeqOrder>
+  </GNSSMode>
+  <GNSSMode>
+    <DisplayName>IN-Fusion Single Baseline</DisplayName>
+    <Name>SingleBase</Name>
+    <SeqOrder>2</SeqOrder>
+  </GNSSMode>
+<!--
+  <GNSSMode>
+    <DisplayName>IN-Fusion PPP</DisplayName>
+    <Name>DifferentialCorrections</Name>
+    <SeqOrder>3</SeqOrder>
+  </GNSSMode>
+  <GNSSMode>
+    <DisplayName>IN-Fusion Autonomous</DisplayName>
+    <Name>RealtimeGPS_TightlyCoupled</Name>
+    <SeqOrder>4</SeqOrder>
+  </GNSSMode>
+  <GNSSMode>
+    <DisplayName>Primary OmniSTAR Nav</DisplayName>
+    <Name>RealtimeGNSS_OmniSTAR</Name>
+    <SeqOrder>5</SeqOrder>
+  </GNSSMode>
+  <GNSSMode>
+    <DisplayName>Primary GNSS Nav</DisplayName>
+    <Name>RealtimeGNSS</Name>
+    <SeqOrder>6</SeqOrder>
+  </GNSSMode>
+  <GNSSMode>
+    <DisplayName>Auxiliary GNSS Nav</DisplayName>
+    <Name>AuxiliaryGPS</Name>
+    <SeqOrder>7</SeqOrder>
+  </GNSSMode>
+  <GNSSMode>
+    <DisplayName>No GNSS Aiding</DisplayName>
+    <Name></Name>
+    <SeqOrder>8</SeqOrder>
+  </GNSSMode>
+-->
+</GNSSModes>

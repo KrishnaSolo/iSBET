@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projectCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<projects>
+<string>Select Project</string>
+<!-- Add new project on the bottom part -->
+<string>ADS18_85118</string>
+<string>AK18_85132</string>
+<string>AR18_85123</string>
+<string>AR19_85123</string>
+<string>AZ18_85126</string>
+<string>CLA18_85135</string>
+<string>CMF17_85109</string>
+<string>CO19_85122</string>
+<string>COL19_85117019</string>
+<string>COL18_85144</string>
+<string>COT18_85143</string>
+<string>CSJ17_85099</string>
+<string>DAL19_85125</string>
+<string>GAR19_76192001</string>
+<string>HMP18_85140</string>
+<string>KCM18_85136</string>
+<string>LA17_85095</string>
+<string>LA18_85098</string>
+<string>LA19_85098</string>
+<string>MAN18_85077</string>
+<string>MI17_85104</string>
+<string>NRH19_136526</string>
+<string>NM18_85130</string>
+<string>NM19_85130</string>
+<string>NY17_85082</string>
+<string>NY18_85121</string>
+<string>NY19_8512019</string>
+<string>OR19_85134019</string>
+<string>PA18_85128</string>
+<string>SC18_85127</string>
+<string>SC19_85127</string>
+<string>SMT18_85142</string>
+<string>TOR18_85138</string>
+<string>VA19_85137</string>
+<string>VT19_85120019</string>
+<string>VA18_85113</string>
+<string>VT17_85107</string>
+</projects>
+</projectCode>
