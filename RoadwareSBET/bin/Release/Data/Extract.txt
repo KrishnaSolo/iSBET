@@ -1,6 +1,0 @@
-﻿    <Extract>
-      <FirstPosFile>##FirstPosFileName##</FirstPosFile>
-      <LastPosFile>##LastPosFileName##</LastPosFile>
-      <StartTimeTotalSec>##StartTimeTotalSeconds##</StartTimeTotalSec>
-      <StopTimeTotalSec>##StopTimeTotalSeconds##</StopTimeTotalSec>
-    </Extract>

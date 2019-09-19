@@ -1,6 +1,0 @@
-==Command - S3uploading 4 \\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023 ny19-8512019 \\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\ 60 Data/CTRL_023/
-
-Uploaded 6 files
-Uploading completed without error!!
-Uploading completed from 2019-07-10 8:20:37 PM to 2019-07-10 8:20:41 PM
-=================

@@ -1,6 +1,0 @@
-\\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\sbet_lv201907030806.out
-\\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\sbet_lv201907031509.out
-\\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\smrmsg_lv201907030806.out
-\\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\smrmsg_lv201907031509.out
-\\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\vrms_lv201907030806.out
-\\video-01\Operations\SBETs\NY19_8512019\Data\CTRL_023\vrms_lv201907031509.out
